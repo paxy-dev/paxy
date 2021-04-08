@@ -1,4 +1,19 @@
 {
   "name": "paxy",
-  "version": "0.0.2"
+  "version": "0.0.2",
+  "description": "",
+  "main": ".pnp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paxy-dev/paxy.git"
+  },
+  "author": "yang.chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paxy-dev/paxy/issues"
+  },
+  "homepage": "https://github.com/paxy-dev/paxy#readme"
 }
